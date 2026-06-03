@@ -48,3 +48,62 @@ ORDER BY
     demand_count DESC,
     avg_salary DESC
 LIMIT 25
+
+/*
+[
+  {
+    "skill_id": 0,
+    "skills": "sql",
+    "demand_count": "31",
+    "avg_salary": "86759"
+  },
+  {
+    "skill_id": 1,
+    "skills": "python",
+    "demand_count": "24",
+    "avg_salary": "82888"
+  },
+  {
+    "skill_id": 183,
+    "skills": "power bi",
+    "demand_count": "13",
+    "avg_salary": "84591"
+  },
+  {
+    "skill_id": 182,
+    "skills": "tableau",
+    "demand_count": "13",
+    "avg_salary": "80103"
+  },
+  {
+    "skill_id": 181,
+    "skills": "excel",
+    "demand_count": "13",
+    "avg_salary": "72270"
+  },
+  {
+    "skill_id": 5,
+    "skills": "r",
+    "demand_count": "12",
+    "avg_salary": "91441"
+  },
+  {
+    "skill_id": 189,
+    "skills": "sap",
+    "demand_count": "8",
+    "avg_salary": "95914"
+  },
+  {
+    "skill_id": 4,
+    "skills": "java",
+    "demand_count": "8",
+    "avg_salary": "74633"
+  },
+  {
+    "skill_id": 185,
+    "skills": "looker",
+    "demand_count": "6",
+    "avg_salary": "95330"
+  }
+]
+*/
