@@ -1,0 +1,102 @@
+[
+  {
+    "skills": "nosql",
+    "avg_salary": "177283"
+  },
+  {
+    "skills": "azure",
+    "avg_salary": "139892"
+  },
+  {
+    "skills": "aws",
+    "avg_salary": "122961"
+  },
+  {
+    "skills": "hadoop",
+    "avg_salary": "113833"
+  },
+  {
+    "skills": "airflow",
+    "avg_salary": "111202"
+  },
+  {
+    "skills": "pyspark",
+    "avg_salary": "111189"
+  },
+  {
+    "skills": "outlook",
+    "avg_salary": "108088"
+  },
+  {
+    "skills": "scala",
+    "avg_salary": "107250"
+  },
+  {
+    "skills": "word",
+    "avg_salary": "105838"
+  },
+  {
+    "skills": "express",
+    "avg_salary": "105300"
+  },
+  {
+    "skills": "ms access",
+    "avg_salary": "105000"
+  },
+  {
+    "skills": "go",
+    "avg_salary": "103896"
+  },
+  {
+    "skills": "crystal",
+    "avg_salary": "100500"
+  },
+  {
+    "skills": "jira",
+    "avg_salary": "98500"
+  },
+  {
+    "skills": "sap",
+    "avg_salary": "95914"
+  },
+  {
+    "skills": "looker",
+    "avg_salary": "95330"
+  },
+  {
+    "skills": "r",
+    "avg_salary": "91441"
+  },
+  {
+    "skills": "sas",
+    "avg_salary": "89204"
+  },
+  {
+    "skills": "cognos",
+    "avg_salary": "89204"
+  },
+  {
+    "skills": "flow",
+    "avg_salary": "89100"
+  },
+  {
+    "skills": "redshift",
+    "avg_salary": "89100"
+  },
+  {
+    "skills": "gdpr",
+    "avg_salary": "89100"
+  },
+  {
+    "skills": "sql",
+    "avg_salary": "86759"
+  },
+  {
+    "skills": "spark",
+    "avg_salary": "86324"
+  },
+  {
+    "skills": "powerpoint",
+    "avg_salary": "84900"
+  }
+]
